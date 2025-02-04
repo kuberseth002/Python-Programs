@@ -2,7 +2,7 @@ def add_zero():
   res=[]
   list=[]
   
-  len=int(input("Enter length if list: "))
+  len=int(input("Enter length of list: "))
   for i in range(len):
     num=int(input("Enter a number:"))
     res.append(num)
